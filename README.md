@@ -15,7 +15,7 @@ Data was obtained and merged from multiple resources. Publiically available data
 * Python 3
 * Numpy
 * Pytorch
-* OpenCv
+* OpenCV
 * Matplotlib, Scipy, Pillow
 * Jupyter
 * Git Lfs to track trained model parameters
